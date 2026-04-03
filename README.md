@@ -45,8 +45,15 @@ Philosophy:      Systems should simplify life, not complicate it
 <img width="1919" height="1103" alt="LandingPagedsahub (2)" src="https://github.com/user-attachments/assets/3d1851ae-1548-407b-8393-5e143812f6df" />
 
 ### 🧠 DSA-HUB
-🔗 https://dsa-hub-nine.vercel.app/
-💻 https://github.com/ix-raj/DSA-Hub
+<p>
+  <a href="https://dsa-hub-nine.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20App-4f46e5?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/ix-raj/DSA-Hub">
+    <img src="https://img.shields.io/badge/Repository-1e293b?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 > A smart DSA practice platform
 * 🎯 Generate custom problem sets based on topics
@@ -59,8 +66,15 @@ Philosophy:      Systems should simplify life, not complicate it
 
 ### 📚 Course-Flow
 
-🔗 https://course-flow-psi.vercel.app/
-💻 https://github.com/ix-raj/Course-Flow
+<p>
+  <a href="https://course-flow-psi.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20App-4f46e5?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/ix-raj/Course-Flow">
+    <img src="https://img.shields.io/badge/Repository-1e293b?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 > A personal learning management system
 
@@ -74,8 +88,15 @@ Philosophy:      Systems should simplify life, not complicate it
 
 ### 🎬 Chrono-Stream
 
-🔗 https://chrono-stream-drab.vercel.app/
-💻 https://github.com/ix-raj/Chrono-Stream
+<p>
+  <a href="https://chrono-stream-drab.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20App-4f46e5?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/ix-raj/Chrono-Stream">
+    <img src="https://img.shields.io/badge/Repository-1e293b?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 > A platform for movie lovers
 
