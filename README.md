@@ -6,8 +6,10 @@
 
 <h1 align="center">⚡ ANKIT | Full Stack Developer ⚡</h1>
 
+<!-- ✅ FIXED: Better sentences in typing SVG -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Systems+That+Add+Value+To+Life;Full+Stack+Developer;UI+Perfectionist;Deep+Thinker+%7C+Systems+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=750&lines=I+build+systems+that+add+real+value;Designing+clean+and+scalable+applications;Turning+ideas+into+structured+products;Focused+on+real+world+problem+solving" />
 </p>
 
 ---
@@ -15,17 +17,17 @@
 ## 🧊 About Me
 
 ```yaml
-Name: Ankit
-Role: Full Stack Developer
-Focus: Building real-world useful applications
-Philosophy: "Build systems that actually add value to life"
+Name:        Ankit
+Role:        Full Stack Developer
+Focus:       Building useful real-world applications
+Philosophy: "Systems should simplify life, not complicate it"
 ```
 
 <p align="center">
 🧠 Deep thinker who connects concepts instead of memorizing  
-⚙️ Systems builder focused on structured and scalable design  
-🎨 UI perfectionist who cares about experience  
-🚀 I build applications that genuinely improve everyday workflows  
+⚙️ Systems builder focused on scalable design  
+🎨 UI perfectionist with attention to detail  
+🚀 Building products that genuinely improve workflows  
 </p>
 
 ---
@@ -47,10 +49,9 @@ Philosophy: "Build systems that actually add value to life"
 
 > A smart DSA practice platform
 
-* 🎯 Generate custom problem sets based on selected topics
+* 🎯 Generate custom problem sets based on topics
 * 🔁 Practice & revision modes
 * 🔥 Streak tracking system
-* ⚡ Focused on structured and consistent learning
 
 ---
 
@@ -61,10 +62,9 @@ Philosophy: "Build systems that actually add value to life"
 
 > A personal learning management system
 
-* 📦 Track courses, progress, notes, and goals
+* 📦 Track courses, notes, and goals
 * 🎬 Built-in video player
-* 🧠 Structured learning system
-* 🔜 Upcoming YouTube course integration
+* 🔜 YouTube course integration coming
 
 ---
 
@@ -75,18 +75,19 @@ Philosophy: "Build systems that actually add value to life"
 
 > A platform for movie lovers
 
-* 🕒 View franchises in chronological order
-* 🎨 Rich artwork and cast details
-* 📺 Streaming platform availability
-* 🎯 Designed for better viewing experience
+* 🕒 Chronological franchise viewing
+* 🎨 Rich artwork and cast info
+* 📺 Streaming availability
 
 ---
 
 ## 📊 System Stats
 
+<!-- ✅ FIXED: visibility issues (removed bg conflicts) -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ix-raj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ix-raj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ix-raj&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ix-raj&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -94,16 +95,20 @@ Philosophy: "Build systems that actually add value to life"
 ## 🔥 Activity Stream
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ix-raj&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" />
+  <img src="https://streak-stats.demolab.com?user=ix-raj&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Contribution Matrix
 
+<!-- ✅ FIXED: Added fallback note -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ix-raj/ix-raj/output/github-contribution-grid-snake.svg" />
 </p>
+
+<!-- NOTE: This only works after GitHub Action setup -->
 
 ---
 
@@ -112,11 +117,13 @@ Philosophy: "Build systems that actually add value to life"
 <p align="center">
 
 <a href="https://github.com/ix-raj">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f7ff" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<!-- ✅ FIXED: LinkedIn visible -->
+
 <a href="https://www.linkedin.com/in/ankit-raj-i27/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f7ff" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
@@ -125,7 +132,7 @@ Philosophy: "Build systems that actually add value to life"
 
 ## ⚡ Dev Identity
 
-> I build systems that don’t just work — they **improve how people live and learn**.
+> I build systems that don’t just work — they improve how people live and learn.
 
 ---
 
