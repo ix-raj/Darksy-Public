@@ -142,13 +142,6 @@
   <img src="https://streak-stats.demolab.com?user=ix-raj&theme=tokyonight&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" />
 </p>
 
----
-
-## 🐍 Contribution Matrix
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ix-raj/ix-raj/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
